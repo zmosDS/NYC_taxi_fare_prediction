@@ -7,11 +7,10 @@ Predicting NYC Yellow Taxi fares using large-scale trip data and a tuned LightGB
 Build an accurate fare estimator from trip features (distance, duration, tolls, time of day, passenger count) and surface key patterns in the taxi system.
 
 ## Built With
+- Python (Pandas, NumPy, Matplotlib)
 - Apache Spark / PySpark
-- Dask + LightGBM
-- Python (pandas, NumPy, matplotlib)
+- LightGBM
 - Jupyter Notebook
-- NYC TLC Trip Records (Parquet)
 
 ## Features
 - Scalable EDA on 2014–2024 Yellow Taxi trips  
